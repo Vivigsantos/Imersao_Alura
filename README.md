@@ -1,4 +1,4 @@
-Descrição do Projeto
+
 Este projeto foi desenvolvido durante um desafio de 5 dias pela Alura, com o objetivo de criar uma réplica da página inicial do Spotify. O projeto visa aprimorar habilidades em HTML, CSS e JavaScript, além de trabalhar com responsividade e design moderno.
 
 Funcionalidades
